@@ -29,7 +29,7 @@ Visualize the training/validation loss and accuracy over epochs to understand th
 
 # Program:
 ```
-NAME : DEEPAK RAJ SS
+NAME : DEEPAK RAJ S
 REG.NO : 212222240023
 ```
 ```
